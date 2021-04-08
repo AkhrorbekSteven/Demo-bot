@@ -1,0 +1,19 @@
+{
+  "name": "Lesson-50",
+  "version": "1.0.0",
+  "description": "this is new bot",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [
+    "bot",
+    "telegram-bot"
+  ],
+  "author": "Abdurakhimov Akhrorbek",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.52.0",
+    "telegram-bot-api": "^2.0.1"
+  }
+}
